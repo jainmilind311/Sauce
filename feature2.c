@@ -7,6 +7,6 @@ void sum(int x, int y){
 }
 
 int main(){
-
-	return sum(4, 7)
+	int result  = sum(4, 7);
+	return result;
 }
