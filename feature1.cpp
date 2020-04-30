@@ -2,6 +2,6 @@
 using namespace std;
 //FEATURE 1
 int main(){
-	printf("Feature 1");
+	cout<<"Feature 1 = front end"<<endl;
 	return 3;
 }
